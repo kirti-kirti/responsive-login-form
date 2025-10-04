@@ -19,12 +19,9 @@ It features **form validation**, **show/hide password toggle**, and a **clean, m
 ---
 
 ## 🧠 Technologies Used
-![HTML5](https://www.google.com/search?q=w3schools+html&oq=w3&gs_lcrp=EgZjaHJvbWUqCggEEAAYsQMYgAQyDggAEEUYJxg7GIAEGIoFMgwIARBFGDkYsQMYgAQyBggCECMYJzIKCAMQABixAxiABDIKCAQQABixAxiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDM3MTlqMGo3qAIIsAIB8QXbdiiPe-WQxA&sourceid=chrome&ie=UTF-8)
-![CSS3](https://www.google.com/search?q=w3schools+css&sca_esv=5c791b440f8b35d9&sxsrf=AE3TifNJItTSJwdCK5Zs4teBmV7ymhZa-A%3A1759551308087&ei=TJ_gaM6OBbucseMP177woAY&oq=w3schools+html&gs_lp=Egxnd3Mtd2l6LXNlcnAiDnczc2Nob29scyBodG1sKgIIADIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzINEAAYgAQYsAMYQxiKBTINEAAYgAQYsAMYQxiKBUjNFFAAWABwAXgBkAEAmAEAoAEAqgEAuAEByAEAmAIBoAIMmAMAiAYBkAYKkgcBMaAHALIHALgHAMIHAzMtMcgHCQ&sclient=gws-wiz-serp)
-![JavaScript](https://www.google.com/search?q=w3schools+javascript&sca_esv=5c791b440f8b35d9&sxsrf=AE3TifOdBsxBJdk6eGyVzhlNyRKH_D9QDg%3A1759551364136&ei=hJ_gaJr6B7LWseMPu92FiQY&oq=w3schools+css&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXczc2Nob29scyBjc3MqAggBMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMg0QABiABBiwAxhDGIoFMg0QABiABBiwAxhDGIoFSPcJUABYAHABeAGQAQCYAQCgAQCqAQC4AQHIAQCYAgGgAgiYAwCIBgGQBgqSBwExoAcAsgcAuAcAwgcDMi0xyAcG&sclient=gws-wiz-serp)
-
-
-
+![HTML5]
+![CSS3]
+![JavaScript]
 
 
 | Technology           | Purpose                 | Key Concepts Used                                                      |
